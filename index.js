@@ -28,7 +28,7 @@ function dec(x) {
 }
 console.log(dec(2))
 
-function Int(x) {
+function makeInt(x) {
    return parseInt('x', 10)
 }
 
