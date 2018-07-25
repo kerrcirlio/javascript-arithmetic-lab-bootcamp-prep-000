@@ -19,5 +19,7 @@ function divide(x,y){
 console.log(divide(5.0,2.5))
 
 function inc(x){
-  return x++
+  return x+=1
 }
+
+console.log(inc(2))
