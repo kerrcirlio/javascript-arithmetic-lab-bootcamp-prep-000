@@ -22,4 +22,4 @@ function inc(x){
   return x++
 }
 
-console.log(inc(5))
+
