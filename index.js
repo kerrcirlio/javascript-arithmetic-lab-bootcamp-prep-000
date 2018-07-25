@@ -21,5 +21,10 @@ console.log(divide(5.0,2.5))
 function inc(x){
   return x+=1
 }
-
 console.log(inc(2))
+
+function dec(x) {
+  return x -=1 
+}
+console.log(dec(2))
+
