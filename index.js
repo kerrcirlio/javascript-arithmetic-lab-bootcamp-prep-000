@@ -28,9 +28,8 @@ function dec(x) {
 }
 console.log(dec(2))
 
-function makeInt(x) {
-   return parseInt('x', 10);
-   return parseInt(x, 10);
+function makeInt(n) {
+   return parseInt('n', 10);
 }
 
 
