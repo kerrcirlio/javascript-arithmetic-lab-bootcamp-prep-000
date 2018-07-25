@@ -8,7 +8,7 @@ function subtract(x,y) {
 }
 console.log(subtract(60,40))
 
-function multiply() {
+function multiply(x,y) {
   return x * y
 }
 console.log(multiply(2,3.4))
