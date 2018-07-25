@@ -29,8 +29,9 @@ function dec(x) {
 console.log(dec(2))
 
 function makeInt(n, base) {
-    parseInt(n, 10);
-    parseInt('nonesense', 10);
+   var parsed = parseInt(x, base);
+  if (isNaN(parsed)) { return 0 }
+  return parsed * 100;
 }
 
 
