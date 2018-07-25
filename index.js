@@ -28,7 +28,7 @@ function dec(x) {
 }
 console.log(dec(2))
 
-function makeInt(n) {
+function makeInt(n, base) {
     parseInt(n, 10);
     parseInt('nonesense', 10);
 }
