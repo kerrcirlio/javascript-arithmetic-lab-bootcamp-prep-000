@@ -13,4 +13,7 @@ function multiply() {
 }
 console.log(multiply(2,3.4))
 
-cuntio
+function divide(x,y){
+  return x/y
+}
+console.log(divide(5.0,2.5))
