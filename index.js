@@ -21,5 +21,4 @@ console.log(divide(5.0,2.5))
 function inc(x){
   return x++
 }
-
-
+console.log(ince(5))
