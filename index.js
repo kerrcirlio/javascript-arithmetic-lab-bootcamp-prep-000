@@ -29,7 +29,7 @@ function dec(x) {
 console.log(dec(2))
 
 function makeInt(x, base) {
-  return parseInt(x, base);
+  return parseInt(x, 10);
 
 }
 console.log(makeInt(5, 10))
