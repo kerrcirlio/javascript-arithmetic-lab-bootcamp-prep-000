@@ -32,5 +32,6 @@ function makeInt(x, base) {
   return parseInt(x, 10);
 
 }
-console.log(makeInt(5, 10))
 
+function preserveDecimal(x) {
+  return parseFloat(x)}
