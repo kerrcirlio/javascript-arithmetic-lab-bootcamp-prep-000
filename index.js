@@ -26,6 +26,5 @@ console.log(number)
 function add(a,b) {
   return a + b 
 }
-
-a= 5, b = 10
-add()
+add(5,10)
+console.log(add)
