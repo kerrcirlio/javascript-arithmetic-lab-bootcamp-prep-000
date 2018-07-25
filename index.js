@@ -28,3 +28,8 @@ function dec(x) {
 }
 console.log(dec(2))
 
+
+function Int(x){
+  parseInt('x',10)
+}
+console.log (Int(2))
