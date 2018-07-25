@@ -24,4 +24,3 @@ function inc(x){
 }
 
 console.log(inc(5))
-}
