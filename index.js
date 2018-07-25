@@ -17,3 +17,11 @@ function divide(x,y){
   return x/y
 }
 console.log(divide(5.0,2.5))
+
+function inc(x){
+  return x++
+  x 
+}
+
+console.log(inc(5))
+}
