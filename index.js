@@ -23,3 +23,9 @@ console.log(number)
 divideBy3()
 console.log(number)
 
+function add(a,b) {
+  return a + b 
+}
+
+a= 5, b = 10
+add()
