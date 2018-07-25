@@ -30,7 +30,7 @@ console.log(dec(2))
 
 function makeInt(x, base) {
   return parseInt(x, base);
- 
-}
 
+}
+console.log(makeInt(5, 10))
 
